@@ -1,0 +1,2 @@
+language: java
+script: cd com.btc.serviceidl.parent && mvn integration-test
